@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "dfs2(int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "y">
+            </PersistentString>
+            <PersistentString
+               value = "ans">
+            </PersistentString>
+            <PersistentString
+               value = "a[k]">
+            </PersistentString>
+            <PersistentString
+               value = "b[k]">
+            </PersistentString>
+            <PersistentString
+               value = "s0[40]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
